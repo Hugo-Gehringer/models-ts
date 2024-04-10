@@ -1,0 +1,20 @@
+{
+  "name": "models-ts",
+  "version": "1.0.0",
+  "description": "transpilated models from the api for angular front",
+  "main": "index.js",
+  "types": "models.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altern-Work/models-ts.git"
+  },
+  "author": "Hugo-Gehringer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Altern-Work/models-ts/issues"
+  },
+  "homepage": "https://github.com/Altern-Work/models-ts#readme"
+}
